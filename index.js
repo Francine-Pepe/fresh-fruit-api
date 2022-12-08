@@ -6,7 +6,7 @@ const app = express();
 
 // Create GET request
 app.get("/", (req, res) => {
-  res.send("Express on Vercel");
+  res.send("./db.json");
 });
 
 // Initialize server
