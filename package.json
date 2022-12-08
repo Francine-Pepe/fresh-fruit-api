@@ -1,0 +1,28 @@
+{
+  "name": "fruits-api",
+  "version": "1.0.0",
+  "description": "Mockup API used on the \"Fruit at your door\" project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francine-Pepe/fresh-fruits-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francine-Pepe/fresh-fruits-api/issues"
+  },
+  "homepage": "https://github.com/Francine-Pepe/fresh-fruits-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
