@@ -1,0 +1,256 @@
+{
+    "fruits": [
+      {
+        "id": 1,
+        "name": "Banana",
+        "image": "https://live.staticflickr.com/65535/52404278814_55b34ff31e_o.jpg",
+        "price": 2.0,
+        "unit": "Kg",
+        "origin": "Brazil",
+        "category": "Summer",
+        "link": "/season/summer",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 2,
+        "name": "Strawberry",
+        "image": "https://live.staticflickr.com/65535/52403484832_2560f287b0_o.jpg",
+        "price": 3.0,
+        "unit": "Kg",
+        "origin": "Spain",
+        "category": "Spring",
+        "link": "/season/spring",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" },
+          { "name": "Sale", "color": "#FF0118" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 3,
+        "name": "Papaya",
+        "image": "https://live.staticflickr.com/65535/52403484872_22ec5b1fac_o.jpg",
+        "price": 8.0,
+        "unit": "Unit",
+        "origin": "Brazil",
+        "category": "Summer",
+        "link": "/season/summer",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 4,
+        "name": "Cherrie",
+        "image": "https://live.staticflickr.com/65535/52404278779_94656222ed_o.jpg",
+        "price": 0.99,
+        "unit": "Kg",
+        "origin": "Germany",
+        "category": "Summer",
+        "link": "/season/summer",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 5,
+        "name": "Raspberry",
+        "image": "https://live.staticflickr.com/65535/52404491763_7166c79e16_o.jpg",
+        "price": 2.0,
+        "unit": "Kg",
+        "origin": "Germany",
+        "category": "Summer",
+        "link": "/season/summer",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 6,
+        "name": "Peach",
+        "image": "https://live.staticflickr.com/65535/52404491793_08a2470178_o.jpg",
+        "price": 2.0,
+        "unit": "Kg",
+        "origin": "Peru",
+        "category": "Summer",
+        "link": "/season/summer",
+        "badget": [{ "name": "Bio", "color": "#39BF99" }],
+        "isActive": false
+      },
+      {
+        "id": 7,
+        "name": "Mango",
+        "image": "https://live.staticflickr.com/65535/52404278734_fb6287e47f_o.jpg",
+        "price": 2.0,
+        "unit": "Unit",
+        "origin": "Turkey",
+        "category": "Summer",
+        "link": "/season/summer",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 8,
+        "name": "Maracuja",
+        "image": "https://live.staticflickr.com/65535/52404278729_b87e4a1232_o.jpg",
+        "price": 3.0,
+        "unit": "Kg",
+        "origin": "Spain",
+        "category": "Spring",
+        "link": "/season/spring",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" },
+          { "name": "Sale", "color": "#FF0118" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 9,
+        "name": "Birne",
+        "image": "https://live.staticflickr.com/65535/52404426745_d0d0f3637f_o.jpg",
+        "price": 1.5,
+        "unit": "Kg",
+        "origin": "Germany",
+        "category": "Winter",
+        "link": "/season/winter",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 10,
+        "name": "Mandarine",
+        "image": "https://live.staticflickr.com/65535/52403484922_401d39ec5f_o.jpg",
+        "price": 0.99,
+        "unit": "Kg",
+        "origin": "Germany",
+        "category": "Autumn",
+        "link": "/season/autumn",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 11,
+        "name": "Ananas",
+        "image": "https://live.staticflickr.com/65535/52403992231_9266f8f2ca_o.jpg",
+        "price": 2.0,
+        "unit": "Unit",
+        "origin": "Portugal",
+        "category": "Autumn",
+        "link": "/season/autumn",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" },
+          { "name": "Sale", "color": "#FF0118" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 12,
+        "name": "Apple",
+        "image": "https://live.staticflickr.com/65535/52403485037_c6c071457c_o.jpg",
+        "price": 2.5,
+        "unit": "Kg",
+        "origin": "Germany",
+        "category": "Winter",
+        "link": "/season/winter",
+        "badget": [{ "name": "Bio", "color": "#39BF99" }],
+        "isActive": false
+      },
+      {
+        "id": 13,
+        "name": "Pomegranade",
+        "image": "https://live.staticflickr.com/65535/52530656272_d72b55f201_z.jpg",
+        "price": 4.5,
+        "unit": "Kg",
+        "origin": "Turkey",
+        "category": "Winter",
+        "link": "/season/winter",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 14,
+        "name": "Melon",
+        "image": "https://live.staticflickr.com/65535/52531127341_7c9f2f25d1_z.jpg",
+        "price": 1.5,
+        "unit": "Kg",
+        "origin": "Germany",
+        "category": "Spring",
+        "link": "/season/spring",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" },
+          { "name": "Sale", "color": "#FF0118" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 15,
+        "name": "Grape",
+        "image": "https://live.staticflickr.com/65535/52531409854_d987fdec42_z.jpg",
+        "price": 2.5,
+        "unit": "Kg",
+        "origin": "Italy",
+        "category": "Winter",
+        "link": "/season/winter",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 16,
+        "name": "Jaca",
+        "image": "https://live.staticflickr.com/65535/52531127381_ae8a937027_z.jpg",
+        "price": 5.5,
+        "unit": "Kg",
+        "origin": "Brazil",
+        "category": "Autumn",
+        "link": "/season/autumn",
+        "badget": [
+          { "name": "Bio", "color": "#39BF99" },
+          { "name": "Fairtrade", "color": "#FADB00" },
+          { "name": "Sale", "color": "#FF0118" }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 17,
+        "name": "Avocado",
+        "image": "https://live.staticflickr.com/65535/52531409884_8ea81b997d_z.jpg",
+        "price": 3.9,
+        "unit": "Unit",
+        "origin": "Germany",
+        "category": "Autumn",
+        "link": "/season/autumn",
+        "badget": [{ "name": "Bio", "color": "#39BF99" }],
+        "isActive": false
+      }
+    ]
+  }
+  
